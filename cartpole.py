@@ -127,21 +127,3 @@ plt.ylabel('Rewards')
 plt.savefig('./' + 'Rewards' + ".png", dpi = 450)
 plt.show()
         
-         
-    
-    
-        
-        
-        
-        
-        
-        
-
-        
-        
-
-
-
-        
-                         
-                         
