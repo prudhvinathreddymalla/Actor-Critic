@@ -57,7 +57,6 @@ class A2CAgent():
         returns = []                #list saves the true values
         
         #calcualting the TD(0) returns
-        
         for r in self.model.rewards[::-1]:
             
             R = r + self.gamma * R
